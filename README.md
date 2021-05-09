@@ -1,3 +1,3 @@
 # lands-takahiro
 
-* [git tips](./Tips/git-tips)
+* [git tips](/Tips/git-tips.md)
